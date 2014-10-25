@@ -104,9 +104,9 @@ In order to complete this assignment, you must do the following:
 
 This assignment will be graded via peer assessment.
 
-##@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#=========##
-###SOLUTION OF THE ASSIGNMENT
-#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#==========#
+##@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#=======##
+###### SOLUTION OF THE ASSIGNMENT
+#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#========#
  # makeCacheMatrix is a function that returns a list of functions
 > # Its puspose is to store a martix and a cached value of the inverse of the 
 > # matrix. Contains the following functions:
