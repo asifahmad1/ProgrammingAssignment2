@@ -9,8 +9,8 @@
 > # * cacheInverse   get the cahced value (inverse of the matrix)
 > # * getInverse     get the cahced value (inverse of the matrix)
 > #
-> # Notes:
-> # not sure how the "x = numeric()" part works in the argument list of the 
+> #
+> # The "x = numeric()" part works in the argument list of the 
 > # function, but it seems to be creating a variable "x" that is not reachable 
 > # from the global environment, but is available in the environment of the 
 > # makeCacheMatrix function
